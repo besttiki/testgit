@@ -4,3 +4,4 @@ Git is free softwar
 tiki is great guys
 
 young maracle
+Git has a mutable index called stage.
