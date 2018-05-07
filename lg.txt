@@ -7,3 +7,5 @@ young maracle
 Git has a mutable index called stage.
 
 differentiable
+
+harden
